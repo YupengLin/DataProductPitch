@@ -1,0 +1,11 @@
+base
+stringr
+slidify
+shiny
+slidifyLibraries
+XML
+ggplot2
+dplyr
+gridExtra
+lattice
+caret
