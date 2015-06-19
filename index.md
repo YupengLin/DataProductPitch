@@ -35,12 +35,6 @@ For example, given parameters
 
 ```r
 para <- data.frame(disp=c(200), hp=c(100), wt=c(3), cyl=c(4),am=c(1),vs=c(1))
-para
-```
-
-```
-##   disp  hp wt cyl am vs
-## 1  200 100  3   4  1  1
 ```
 We can fit the linear model
 
